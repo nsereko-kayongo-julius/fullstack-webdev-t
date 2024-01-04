@@ -1,0 +1,14 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "using the weather API in my express project",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nsereko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
